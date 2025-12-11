@@ -42,7 +42,7 @@ Este projeto é otimizado para execução dentro do Eclipse IDE.
 Abra o terminal e clone o projeto:
 
 ```bash
-git clone [https://github.com/Samyr-Dev/Teste_automaticos](https://github.com/Samyr-Dev/Teste_automaticos)
+git clone https://github.com/Samyr-Dev/Teste_automaticos
 ```
 
 ## ⚙️ Como Executar
